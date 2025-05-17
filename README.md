@@ -35,8 +35,8 @@
 ### 📫 Contact Me
 
 - 📧 **Email**: ardakaankanlisu@gmail.com 
-- 💼 LinkedIn:(www.linkedin.com/in/arda-kaan-kanlisu)  
-- 🖥️ Portfolio: (www.ardakaankanlisu.com)
+- 💼 [LinkedIn](www.linkedin.com/in/arda-kaan-kanlisu)  
+- 🖥️ [Portfolio](www.ardakaankanlisu.com)
 
 ---
 
