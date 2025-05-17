@@ -35,15 +35,7 @@
 ### 📫 Contact Me
 
 - 📧 **Email**: ardakaankanlisu@gmail.com 
-- 💼 [LinkedIn](www.linkedin.com/in/arda-kaan-kanlisu)  
-- 🖥️ [Portfolio](www.ardakaankanlisu.com)
+- 💼 **LinkedIn**: www.linkedin.com/in/arda-kaan-kanlisu 
+- 🖥️ **Portfolio**: www.ardakaankanlisu.com
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kayrakanli&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayrakanli&layout=compact&theme=radical" />
-</p>
